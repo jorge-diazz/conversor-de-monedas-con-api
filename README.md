@@ -43,3 +43,5 @@ Seleccionar la opción tres e ingresar la cantidad, mostrará la conversión deb
 <image src="/img/terminacion-programa.png" alt="Imagen de salir del programa">
 
 ## Insignia de completado
+
+<image src="/img/Badge-Conversor.png" alt="Imagen de salir del programa">
