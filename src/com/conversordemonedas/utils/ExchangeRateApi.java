@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ExchangeRateApi {
-    private String apiKey = "97c08cce4985923273659f97";
+    private String apiKey = "";
     private String urlBase = "https://v6.exchangerate-api.com/v6/" + apiKey;
 
     public List<Currency> getCurrencies() {
