@@ -20,19 +20,26 @@ Challenge One: Conversor de monedas desarrollado en Java 17, con el uso de la AP
 
 ## Funcionalidades
 1.- Seleccionar moneda.
+
 Ingresar la opción uno y después ingresar el número de la moneda que deseas.
 <image src="/img/ingresa-moneda-1.png" alt="Imagen de la lista de monedas">
 Para saber si la moneda es correcta, se muestra en el menú después de haberla seleccionado.
 <image src="/img/ingresa-moneda-2.png" alt="Imagen de la moneda seleccionada">
+
 2.- Seleccionar moneda para conversión.
+
 Ingresar la opción dos y después ingresar el número de la moneda que deseas.
 <image src="/img/ingresa-conversion-1.png" alt="Imagen de la lista de monedas">
 Para saber si la moneda es correcta, se muestra en el menú después de haberla seleccionado.
 <image src="/img/ingresa-conversion-2.png" alt="Imagen de la moneda seleccionada">
+
 3.- Realizar conversión.
+
 Seleccionar la opción tres e ingresar la cantidad, mostrará la conversión debajo del menú.
 <image src="/img/realizar-conversion.png" alt="Imagen de conversion de moneda">
+
 4.- Salir.
+
 <image src="/img/terminacion-programa.png" alt="Imagen de salir del programa">
 
 ## Insignia de completado
