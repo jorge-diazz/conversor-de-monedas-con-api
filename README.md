@@ -39,6 +39,7 @@ Seleccionar la opción tres e ingresar la cantidad, mostrará la conversión deb
 <image src="/img/realizar-conversion.png" alt="Imagen de conversion de moneda">
 
 4.- Ver historial de conversiones.
+
 Seleccionar la opción 3 y se mostrara una lista con las conversiones hechas.
 
 <image src="/img/historial-de-conversiones.png" alt="Imagen de historial de conversiones">
