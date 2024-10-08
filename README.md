@@ -38,7 +38,12 @@ Para saber si la moneda es correcta, se muestra en el menú después de haberla 
 Seleccionar la opción tres e ingresar la cantidad, mostrará la conversión debajo del menú.
 <image src="/img/realizar-conversion.png" alt="Imagen de conversion de moneda">
 
-4.- Salir.
+4.- Ver historial de conversiones.
+Seleccionar la opción 3 y se mostrara una lista con las conversiones hechas.
+
+<image src="/img/historial-de-conversiones.png" alt="Imagen de historial de conversiones">
+
+5.- Salir.
 
 <image src="/img/terminacion-programa.png" alt="Imagen de salir del programa">
 
